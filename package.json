@@ -1,0 +1,19 @@
+{
+  "name": "task-svg",
+  "version": "0.0.0",
+  "description": "SVG & SVG map processing",
+  "main": "index.js",
+  "repository": "https://github.com/escaladesports/task-svg.git",
+  "author": "Kennedy Rose <krose@escaladesports.com> (https://escaladesports.com)",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^2.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-svgmin": "^1.2.3",
+    "gulp-svgstore": "^6.1.0",
+    "task-error-notify": "https://github.com/escaladesports/task-error-notify.git",
+    "task-notify": "https://github.com/escaladesports/task-notify"
+  }
+}
