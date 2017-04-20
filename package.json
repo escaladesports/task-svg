@@ -1,6 +1,6 @@
 {
   "name": "task-svg",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "SVG & SVG map processing",
   "main": "index.js",
   "repository": "https://github.com/escaladesports/task-svg.git",
